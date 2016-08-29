@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inX\ inY
+comment0.target=LevelWanderer(int,\ int)
+comment1.params=yVal
+comment1.target=void\ setTargetY(int)
+comment2.params=
+comment2.target=void\ update()
+numComments=3

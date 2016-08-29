@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=java.lang.String\ arrayToString(int[][])
+comment1.params=a\ b
+comment1.target=int[][]\ addMatrices(int[][],\ int[][])
+comment2.params=numRows\ numCols
+comment2.target=int[][]\ multTable(int,\ int)
+comment3.params=arr\ col
+comment3.target=int\ rowSum(int[][],\ int)
+comment4.params=arr\ row
+comment4.target=int\ colSum(int[][],\ int)
+comment5.params=square
+comment5.target=boolean\ isMagic(int[][])
+comment6.params=
+comment6.target=void\ testAll()
+numComments=7

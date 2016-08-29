@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=tmpString
+comment0.target=Rotor(java.lang.String)
+comment1.params=character
+comment1.target=int\ getCharacterIndex(java.lang.String)
+comment2.params=index
+comment2.target=java.lang.String\ getCharacterAt(int)
+comment3.params=
+comment3.target=void\ rotate()
+comment4.params=letter
+comment4.target=void\ setStartingLetter(java.lang.String)
+comment5.params=
+comment5.target=void\ rotateBackwards()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

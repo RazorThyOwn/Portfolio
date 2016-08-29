@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=AntiGhostWanderer(double,\ double)
+comment1.params=charNum
+comment1.target=void\ setCharacterNumber(int)
+numComments=2

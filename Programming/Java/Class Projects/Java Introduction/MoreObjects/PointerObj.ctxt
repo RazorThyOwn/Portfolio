@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PointerObj()
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=tX
+comment3.target=void\ setX(int)
+comment4.params=tY
+comment4.target=void\ setY(int)
+comment5.params=tX\ tY
+comment5.target=void\ setCoords(int,\ int)
+comment6.params=tX\ tY
+comment6.target=void\ translate(int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ getCoords()
+numComments=8

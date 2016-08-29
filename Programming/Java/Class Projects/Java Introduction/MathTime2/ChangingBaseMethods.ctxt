@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=dec
+comment0.target=java.lang.String\ getBinary(int)
+comment1.params=dec
+comment1.target=java.lang.String\ getOctal(int)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=dec\ base
+comment3.target=java.lang.String\ decToBase(int,\ int)
+comment4.params=num\ base
+comment4.target=int\ baseToDec(java.lang.String,\ int)
+comment5.params=val
+comment5.target=java.lang.String\ getDigit(int)
+comment6.params=dig
+comment6.target=int\ getIntVal(java.lang.String)
+numComments=7

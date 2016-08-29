@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=p1\ p2
+comment0.target=Line(java.awt.Point,\ java.awt.Point)
+comment1.params=
+comment1.target=double\ getSlope()
+comment2.params=
+comment2.target=double\ getDistance()
+comment3.params=
+comment3.target=double\ getYIntercept()
+comment4.params=x
+comment4.target=double\ getYFromX(int)
+comment5.params=
+comment5.target=java.awt.Point\ getMidPoint()
+comment6.params=p
+comment6.target=java.lang.String\ formatPoint(java.awt.Point)
+numComments=7

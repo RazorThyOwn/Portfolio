@@ -1,0 +1,28 @@
+Leather Helmet	|	5	|	1	|	5	|	-1	|	18	|	A helmet made of leather, looks worn.
+Leather Chestpiece	|	15	|	2	|	15	|	-2	|	18	|	A chestpiece sewn together with multiple pieces of leather.
+Small Knapsack	|	-50	|	0	|	0	|	-1	|	18	|	A tan cotton knapsack stained with dirt and with what appears to be blood.
+Sweatpants	|	5	|	1	|	3	|	1	|	18	|	A pair of grey cotton and polyester sweatpants. Great for squatting or simply relaxing.
+Sweater	|	10	|	1	|	4	|	0	|	18	|	A dark green pullover sweater. It appears to be slightly torn at the bottom.
+Tank Top	|	4	|	3	|	1	|	1	|	18	|	A red tank top with a faded black logo. You can make out the words "Do you even" from the logo but the rest is too faded to decipher.
+Basketball Shorts	|	5	|	3	|	1	|	4	|	18	|	A dark blue elastic pair of basketball shorts. The bottom is embroidered with the letter "SR"
+Shorts	|	6	|	2	|	2	|	-1	|	18	|	A pair of khaki shorts. Great for summer evenings and surviving murderous humans.
+Pants	|	10	|	2	|	3	|	-2	|	18	|	A pair of demin blue jeans. They appear to be torn at the bottom but are mostly intact.
+Running Shoes	|	3	|	5	|	1	|	5	|	18	|	A pair of muddy, white running shoes. You remember your mother telling you that they would take you anywhere.
+Flip Flops	|	1	|	1	|	0	|	1	|	18	|	A pair of leather flip flops. Great for strolls on the beach. Not great for sprinting for your life.
+Boots	|	5	|	1	|	2	|	-1	|	18	|	A sturdy pair of brown leather boots. Just happens to be your size!
+Iron Chestplate	|	30	|	4	|	35	|	-4	|	18	|	An old chestplate made with rusted iron. It is covered in small scratches and dents. It has clearly seen battle.
+Iron Helmet	|	15	|	2	|	15	|	-2	|	18	|	A shiny helmet made of a mass amount of iron iron. Looks like it would've taken atleast five iron bars to make.
+Gold Chestplate	|	40	|	5	|	25	|	-5	|	25	|	A decorative golden chestplate encrusted with jewels. The metal is polished and unscathed. It has never seen battle.
+Gold Helmet	|	20	|	3	|	10	|	-3	|	25	|	A decorative golden helmet encrusted with a few diamonds. It feels extremely heavy in your hands, one can imagine how it must feel on your head.
+Steel Chestplate	|	35	|	4	|	45	|	-5	|	25	|	A polished steel chestplate with a few dents on the bottom of the plate. The leather straps that bind the armor is covered in blood.
+Steel Helmet	|	17	|	2	|	20	|	-2	|	25	|	A sturdy steel helmet covered in dust. Seems to have not been used in a while.
+Lifting God's Shirt	|	5	|	2	|	15	|	2	|	50	|	A bright red shirt that has had it's sleeves cut off. There is a black logo with the words "Do you even lift?".
+Fallaxious' Legendary Chestplate	|	0	|	10	|	0	|	0	|	99	|	
+Fallaxious' Legendary Leggings	|	0	|	5	|	0	|	0	|	99	|	
+Fallaxious' Legendary Helmet	|	0	|	5	|	0	|	0	|	99	|	
+Tyrus' Legendary Chestplate	|	0	|	0	|	0	|	10	|	99	|	
+Tyrus' Legendary Leggings	|	0	|	0	|	0	|	5	|	99	|	
+Tyrus' Legendary Helmet	|	0	|	0	|	0	|	5	|	99	|	
+Kayn's Legendary Chestplate	|	15	|	0	|	75	|	0	|	99	|	
+Kayn's Legendary Leggings	|	10	|	0	|	50	|	0	|	99	|	
+Kayn's Legendary Helmet	|	5	|	0	|	50	|	0	|	99	|	

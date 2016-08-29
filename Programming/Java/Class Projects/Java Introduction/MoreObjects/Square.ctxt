@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=brush
+comment0.target=void\ paintWindow(sacco.PaintBrush)
+comment1.params=
+comment1.target=Square()
+comment2.params=tX\ tY\ tSideLength
+comment2.target=Square(int,\ int,\ int)
+comment3.params=aX
+comment3.target=void\ setX(int)
+comment4.params=aY
+comment4.target=void\ setY(int)
+comment5.params=tColor
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=int\ getArea()
+comment7.params=
+comment7.target=int\ getPerimeter()
+comment8.params=
+comment8.target=void\ doubleSide()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

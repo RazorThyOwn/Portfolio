@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=AnimatedSprite(double,\ double,\ int,\ int)
+comment1.params=strip
+comment1.target=void\ setPictureStrip(sacco.Picture[])
+comment2.params=
+comment2.target=sacco.Picture\ currentImage()
+comment3.params=
+comment3.target=void\ changeImage()
+comment4.params=brush
+comment4.target=void\ paintSelf(sacco.PaintBrush)
+comment5.params=
+comment5.target=void\ update()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=Display()
+comment2.params=scale
+comment2.target=Display(int)
+comment3.params=scale
+comment3.target=void\ setup(int)
+comment4.params=brush
+comment4.target=void\ paintWindow(sacco.PaintBrush)
+comment5.params=i
+comment5.target=void\ onKeyPress(int)
+comment6.params=i
+comment6.target=void\ onKeyRelease(int)
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=bounds
+comment0.target=BouncingBall(BoundingBox)
+comment1.params=
+comment1.target=void\ horizontalBounce()
+comment2.params=
+comment2.target=void\ verticalBounce()
+comment3.params=brush
+comment3.target=void\ paintSelf(sacco.PaintBrush)
+comment4.params=
+comment4.target=void\ processBoundary()
+comment5.params=
+comment5.target=void\ fall()
+numComments=6

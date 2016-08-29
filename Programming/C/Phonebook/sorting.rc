@@ -1,0 +1,13 @@
+#include "res.h"
+#include "windows.h"
+
+sortWindow DIALOG DISCARDABLE  0, 0, 240, 55 // Initializing sorting window
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Sorting"
+FONT 8, "MS Sans Serif"
+BEGIN
+    PUSHBUTTON      "&Sort first name A to Z",SORT_FIRST_AZ,5,5,110,20
+    PUSHBUTTON      "&Sort first name Z to A",SORT_FIRST_ZA,5,30,110,20
+    PUSHBUTTON      "&Sort last name A to Z",SORT_LAST_AZ,120,5,110,20
+    PUSHBUTTON      "&Sort last name Z to A",SORT_LAST_ZA,120,30,110,20
+END

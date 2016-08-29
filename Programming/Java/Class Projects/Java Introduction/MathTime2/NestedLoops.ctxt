@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ SquareGrid()
+comment1.params=
+comment1.target=void\ Triangle()
+comment2.params=
+comment2.target=void\ Rectangles()
+comment3.params=
+comment3.target=void\ SquareDesign()
+comment4.params=input
+comment4.target=void\ Arrow(int)
+comment5.params=input
+comment5.target=void\ WordPrinter(java.lang.String)
+numComments=6

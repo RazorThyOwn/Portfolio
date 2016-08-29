@@ -1,0 +1,28 @@
+#include "res.h"
+
+myMenu MENU // Declaring our menu
+BEGIN
+    POPUP "&File" //The file tab
+    BEGIN
+        MENUITEM "New Phonebook", fileNewBook // Each button under file tab
+        MENUITEM "Save Phonebook", fileSaveBook
+        MENUITEM "Load Phonebook", fileLoadBook
+        MENUITEM "E&xit", fileExit
+    END
+
+    POPUP "&Edit" //The edit tab
+    BEGIN
+        MENUITEM "&Add", editFileAdd // Each button under edit tab
+        MENUITEM "&Remove", editFileRemove
+    END
+    POPUP "&Manipulate" // Manipulate tab and sort button
+    BEGIN
+        MENUITEM "&Sort Alphabetically", manSortAlpha
+    END
+    POPUP "&Information" // Information tab and about button
+    BEGIN
+        MENUITEM "&About", infoTab
+    END
+END
+
+

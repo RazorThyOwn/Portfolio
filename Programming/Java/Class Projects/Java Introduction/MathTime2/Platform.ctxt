@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ height\ width
+comment0.target=Platform(int,\ int,\ int,\ int)
+comment1.params=brush
+comment1.target=void\ paintSelf(sacco.PaintBrush)
+comment2.params=
+comment2.target=BoundingBox\ getBounds()
+comment3.params=
+comment3.target=int\ getY()
+numComments=4

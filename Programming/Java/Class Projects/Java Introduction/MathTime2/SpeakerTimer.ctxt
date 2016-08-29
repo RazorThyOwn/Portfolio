@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tmpSpeaker
+comment0.target=SpeakerTimer(Speaker)
+comment1.params=
+comment1.target=void\ onTimerTick()
+comment2.params=
+comment2.target=void\ main()
+numComments=3

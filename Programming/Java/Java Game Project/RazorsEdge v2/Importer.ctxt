@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ importing()
+comment1.params=
+comment1.target=Weapon[]\ getWAr()
+comment2.params=
+comment2.target=Apparel[]\ getAAr()
+comment3.params=
+comment3.target=Consumable[]\ getCAr()
+numComments=4

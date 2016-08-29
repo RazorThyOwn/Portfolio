@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=boolean\ isACap(java.lang.String)
+comment1.params=input
+comment1.target=boolean\ isAllInts(java.lang.String)
+comment2.params=input
+comment2.target=boolean\ containsACapital(java.lang.String)
+comment3.params=input
+comment3.target=boolean\ isAllSameCharacter(java.lang.String)
+comment4.params=input
+comment4.target=int\ largestInteger(java.lang.String)
+comment5.params=input
+comment5.target=int\ indexOfLargestInteger(java.lang.String)
+comment6.params=input
+comment6.target=double\ getGPA(java.lang.String)
+comment7.params=input
+comment7.target=java.lang.String\ justTheCaps(java.lang.String)
+comment8.params=input
+comment8.target=int\ catCount(java.lang.String)
+comment9.params=input
+comment9.target=int\ countPeaks(java.lang.String)
+numComments=10

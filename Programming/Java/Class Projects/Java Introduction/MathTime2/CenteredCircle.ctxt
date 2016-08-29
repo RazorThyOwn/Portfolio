@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ rad\ tcolor
+comment0.target=CenteredCircle(int,\ int,\ int,\ java.lang.String)
+comment1.params=colr
+comment1.target=void\ setColor(java.lang.String)
+comment2.params=rad
+comment2.target=void\ setRadius(int)
+comment3.params=mxR
+comment3.target=void\ setMaxRadius(int)
+comment4.params=brush
+comment4.target=void\ paintSelf(sacco.PaintBrush)
+comment5.params=
+comment5.target=void\ grow()
+numComments=6

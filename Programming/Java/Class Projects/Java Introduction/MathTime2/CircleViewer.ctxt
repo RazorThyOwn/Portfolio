@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=myCircles
+comment0.target=CircleViewer(Circle[])
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=
+comment2.target=void\ centeredRunner()
+comment3.params=
+comment3.target=void\ randRunner()
+comment4.params=
+comment4.target=void\ colorRunner()
+comment5.params=
+comment5.target=void\ grayRunner()
+comment6.params=
+comment6.target=void\ diagonalCircles()
+numComments=7

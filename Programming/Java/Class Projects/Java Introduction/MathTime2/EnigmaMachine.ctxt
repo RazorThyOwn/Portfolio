@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EnigmaMachine()
+comment1.params=letter
+comment1.target=java.lang.String\ encodeLetter(java.lang.String)
+comment2.params=letter
+comment2.target=java.lang.String\ decodeLetter(java.lang.String)
+comment3.params=letterGroup
+comment3.target=java.lang.String\ encodeLetterGroup(java.lang.String)
+comment4.params=letterGroup
+comment4.target=java.lang.String\ decodeLetterGroup(java.lang.String)
+comment5.params=vals
+comment5.target=void\ setStartingvalues(java.lang.String)
+numComments=6

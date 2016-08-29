@@ -1,0 +1,33 @@
+#include "res.h"
+#include "windows.h"
+
+addWindow DIALOG DISCARDABLE  0, 0, 270, 50 // Initializing addWindow, as well as its dimensions
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU // Style options
+CAPTION "Add an item..." // Captioning it
+FONT 8, "MS Sans Serif" // Font and size
+BEGIN
+    LTEXT           "First Name:",editFName,5,6,50,7 // Creating each text and the box associated with it
+    EDITTEXT        editFNameBox,50,5,50,14,ES_AUTOHSCROLL
+    LTEXT           "Last Name:",editLName,110,6,50,7
+    EDITTEXT        editLNameBox,150,5,50,14,ES_AUTOHSCROLL
+
+    LTEXT           "Extension:",editExt,5,26,50,7
+    EDITTEXT        editExtBox,50,25,19,14,ES_AUTOHSCROLL
+    LTEXT           "Number:",numFirst,110,26,50,7
+    EDITTEXT        numFirstBox,150,25,20,14,ES_AUTOHSCROLL
+    EDITTEXT        numSecBox,175,25,24,14,ES_AUTOHSCROLL
+
+    PUSHBUTTON      "&Add",editAddButton,210,4,45,14
+    PUSHBUTTON      "&Clear",editClearButton,210,25,45,14
+END
+
+termToRemove DIALOG DISCARDABLE  0, 0, 80, 100 // Initializing remove window
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Remove"
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "Input term to remove",termRemoveText, 5,5,90,14
+    EDITTEXT        termRemoveInput, 30,20,20,10
+
+    PUSHBUTTON      "&Remove",termToRemoveOKButton, 5, 50, 70, 40
+END

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Triangle()
+comment1.params=
+comment1.target=void\ randomizeColor()
+comment2.params=brush
+comment2.target=void\ paintSelf(sacco.PaintBrush)
+comment3.params=tmpX\ tmpY
+comment3.target=void\ translate(int,\ int)
+comment4.params=x\ y
+comment4.target=boolean\ containsPoint(int,\ int)
+comment5.params=p1\ p2\ p3
+comment5.target=double\ getTriangleArea(sacco.Point,\ sacco.Point,\ sacco.Point)
+numComments=6

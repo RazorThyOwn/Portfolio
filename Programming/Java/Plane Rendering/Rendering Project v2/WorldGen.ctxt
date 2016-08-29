@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=scale\ rSize
+comment0.target=int[][]\ genRandom(int,\ int)
+comment1.params=scale\ rSize
+comment1.target=int[][]\ genCHill(int,\ int)
+comment2.params=scale\ rSize
+comment2.target=int[][]\ genCValley(int,\ int)
+comment3.params=scale
+comment3.target=int[][]\ genZero(int)
+numComments=4

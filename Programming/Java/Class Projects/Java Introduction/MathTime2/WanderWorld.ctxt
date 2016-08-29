@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=wanderers
+comment0.target=WanderWorld(sacco.Wanderer[])
+comment1.params=
+comment1.target=void\ onTimerTick()
+comment2.params=brush
+comment2.target=void\ paintWindow(sacco.PaintBrush)
+comment3.params=
+comment3.target=void\ launch()
+comment4.params=
+comment4.target=void\ main()
+comment5.params=
+comment5.target=void\ antiGhostRunner()
+comment6.params=
+comment6.target=void\ SprintingWanderer()
+comment7.params=
+comment7.target=void\ boundedRunner()
+comment8.params=
+comment8.target=void\ levelRunner()
+comment9.params=
+comment9.target=void\ clockwiseRunner()
+numComments=10

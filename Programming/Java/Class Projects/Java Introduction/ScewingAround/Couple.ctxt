@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=f\ s
+comment0.target=Couple(java.lang.Object,\ java.lang.Object)
+comment1.params=
+comment1.target=java.lang.Object\ getFirst()
+comment2.params=
+comment2.target=java.lang.Object\ getSecond()
+comment3.params=f
+comment3.target=void\ setFirst(java.lang.Object)
+comment4.params=s
+comment4.target=void\ setSecond(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=otherObj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

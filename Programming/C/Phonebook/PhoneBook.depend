@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1462490739 source:c:\users\alex weber\desktop\desktop\compscilabs\phonebook\main.c
+	<windows.h>
+	<gdiplus.h>
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<C:\Users\Alex Weber\Desktop\Desktop\CompSciLabs\PhoneBook\res.h>
+
+1462476385 source:c:\users\alex weber\desktop\desktop\compscilabs\phonebook\menu.rc
+	"res.h"
+
+1462444477 c:\users\alex weber\desktop\desktop\compscilabs\phonebook\res.h
+
+1462423229 source:c:\users\alex weber\desktop\desktop\compscilabs\phonebook\about.rc
+	"res.h"
+	"windows.h"
+
+1462476457 source:c:\users\alex weber\desktop\desktop\compscilabs\phonebook\editcontrols.rc
+	"res.h"
+	"windows.h"
+
+1462476855 source:c:\users\alex weber\desktop\desktop\compscilabs\phonebook\sorting.rc
+	"res.h"
+	"windows.h"
+

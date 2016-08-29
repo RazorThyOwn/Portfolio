@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=arrOne\ arrTwo
+comment0.target=int\ end9(int[],\ int[])
+comment1.params=arr
+comment1.target=int[]\ swapEnds(int[])
+comment2.params=arr
+comment2.target=int[]\ addA9(int[])
+comment3.params=arrOne\ arrTwo
+comment3.target=boolean\ identicalArrays(int[],\ int[])
+comment4.params=arr
+comment4.target=boolean\ containsAPrime(int[])
+comment5.params=arr
+comment5.target=int\ biggestDifference(int[])
+comment6.params=arr
+comment6.target=int[]\ post4(int[])
+numComments=7

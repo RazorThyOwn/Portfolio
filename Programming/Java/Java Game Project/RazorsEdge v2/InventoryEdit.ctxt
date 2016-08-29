@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inSlot\ p\ type
+comment0.target=InventoryEdit(int,\ Player,\ int)
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=k
+comment2.target=void\ onKeyPress(int)
+comment3.params=k
+comment3.target=void\ onKeyRelease(int)
+comment4.params=m
+comment4.target=void\ onMousePress(sacco.MouseEvent)
+numComments=5

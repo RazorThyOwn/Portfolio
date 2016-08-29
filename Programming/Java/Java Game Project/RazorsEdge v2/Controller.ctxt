@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=pList\ mapSizeIn\ ter\ sightRangeIn\ imp
+comment0.target=Controller(Player[],\ int,\ Tile[][],\ int,\ Importer)
+comment1.params=
+comment1.target=void\ launch()
+comment10.params=
+comment10.target=int\ getBaseWidth()
+comment11.params=
+comment11.target=Player[]\ getPlayerList()
+comment2.params=brush
+comment2.target=void\ paintWindow(sacco.PaintBrush)
+comment3.params=m
+comment3.target=void\ onMousePress(sacco.MouseEvent)
+comment4.params=
+comment4.target=void\ turn()
+comment5.params=
+comment5.target=void\ demo()
+comment6.params=inPlayer\ index
+comment6.target=void\ chainPlayerListUp(Player,\ int)
+comment7.params=gScale\ lScale\ gW\ pW
+comment7.target=void\ updateMapSettings(int,\ int,\ int,\ int)
+comment8.params=pl
+comment8.target=void\ updatePlayer(Player)
+comment9.params=
+comment9.target=void\ isSightRange()
+numComments=12

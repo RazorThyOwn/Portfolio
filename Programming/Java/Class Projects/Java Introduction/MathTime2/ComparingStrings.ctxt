@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=one\ two
+comment0.target=java.lang.String\ firstASCII(java.lang.String,\ java.lang.String)
+comment0.text=Returns\ either\ String\ one\ or\ two\ base\ on\ which\ comes\r\n\ first\ on\ the\ ASCII\ table.\r\n\ @param\ one\ The\ first\ String\ to\ be\ passed\r\n\ @param\ two\ The\ second\ String\ to\ be\ passed\r\n\ @return\ The\ String\ that\ comes\ first\ on\ the\ ASCII\ table\r\n
+comment1.params=one\ two
+comment1.target=java.lang.String\ lastASCII(java.lang.String,\ java.lang.String)
+comment1.text=Returns\ either\ String\ one\ or\ two\ base\ on\ which\ comes\r\n\ last\ on\ the\ ASCII\ table.\r\n\ @param\ one\ The\ first\ String\ to\ be\ passed\r\n\ @param\ two\ The\ second\ String\ to\ be\ passed\r\n\ @return\ The\ String\ that\ comes\ last\ on\ the\ ASCII\ table\r\n
+comment2.params=one\ two
+comment2.target=java.lang.String\ firstAlpha(java.lang.String,\ java.lang.String)
+comment2.text=Returns\ either\ String\ one\ or\ two\ base\ on\ which\ comes\r\n\ first\ using\ the\ alphabet.\r\n\ @param\ one\ The\ first\ String\ to\ be\ passed\r\n\ @param\ two\ The\ second\ String\ to\ be\ passed\r\n\ @return\ The\ String\ that\ comes\ first\ using\ the\ alphabet.\r\n
+comment3.params=str
+comment3.target=boolean\ isCapitalized(java.lang.String)
+comment3.text=Determines\ if\ the\ passed\ in\ String\ is\ capitalized\ or\ not\r\n\ @param\ str\ The\ String\ to\ be\ considered\r\n\ @return\ true\ if\ the\ String\ is\ capitalized\r\n
+comment4.params=str
+comment4.target=boolean\ isADoubleWord(java.lang.String)
+comment4.text=Determines\ if\ the\ passed\ in\ String\ is\ made\ of\ two\ words\r\n\ in\ a\ row.\ \ For\ example\:\ "HelloHello"\r\n\ Precondition\ str's\ length\ is\ even\r\n\ @param\ str\ The\ String\ to\ be\ considered\r\n\ @return\ true\ if\ str\ is\ a\ double\ word.\r\n
+comment5.params=str
+comment5.target=boolean\ isAThreeDigitNumber(java.lang.String)
+comment5.text=Returns\ true\ if\ the\ passed\ in\ String\ is\ a\ 3\ digit\ number.\r\n\ @param\ str\ The\ String\ to\ be\ considered\r\n\ @return\ true\ if\ the\ String\ is\ 3\ characters\ long\ and\ all\ characters\ are\ digits\r\n
+numComments=6

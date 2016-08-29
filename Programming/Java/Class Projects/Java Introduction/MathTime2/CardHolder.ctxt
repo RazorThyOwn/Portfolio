@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CardHolder()
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=
+comment2.target=void\ main()
+comment3.params=m
+comment3.target=void\ onMousePress(sacco.MouseEvent)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=itemName\ itemCost
+comment0.target=Invoice(java.lang.String,\ double)
+comment1.params=
+comment1.target=double\ getPaymentAmount()
+comment2.params=funds
+comment2.target=void\ recieveFunds(double)
+comment3.params=
+comment3.target=boolean\ isPaid()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

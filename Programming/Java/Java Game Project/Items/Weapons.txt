@@ -1,0 +1,38 @@
+Shortsword	|	15	|	7	|	3	|	-1	|	15	|	37	|	A short sword, made of iron. Plain in design.
+Longsword	|	28	|	5	|	8	|	-1	|	20	|	37	|	A long iron sword with a worn leather grip. The sword seems pretty worn with scratches and chips along its blade.
+Flail	|	23	|	4	|	-1	|	5	|	12	|	37	|	An old iron flail with a chain made of steel. It seems dangerous; don't flail with the flail.
+Dagger	|	5	|	9	|	1	|	-1	|	4	|	37	|	A small steel dagger. Perfect for hunting a rabbit or backstabbing your friends.
+Mace	|	25	|	7	|	2	|	-1	|	14	|	37	|	A big iron mace with thick steel spikes. On the handle there are seven tally marks.
+Scimitar	|	19	|	8	|	8	|	-1	|	17	|	37	|	
+Katana	|	21	|	7	|	7	|	-1	|	12	|	37	|	
+Scythe	|	14	|	8	|	6	|	-1	|	15	|	37	|	
+Rapier	|	14	|	8	|	4	|	-1	|	11	|	37	|	
+Whip	|	9	|	3	|	-1	|	10	|	6	|	37	|	
+Javelin	|	13	|	8	|	-1	|	25	|	8	|	37	|	
+Spear	|	15	|	7	|	-1	|	28	|	9	|	37	|	
+Throwing Knife	|	7	|	5	|	-1	|	15	|	5	|	37	|	
+Shuriken	|	8	|	6	|	-1	|	20	|	6	|	37	|	
+Short Bow	|	20	|	8	|	-1	|	100	|	19	|	37	|	
+Greatsword	|	35	|	5	|	9	|	-1	|	35	|	37	|	
+Warhammer	|	27	|	4	|	7	|	-1	|	31	|	37	|	
+Waraxe	|	24	|	5	|	6	|	-1	|	28	|	37	|	
+Halberd	|	16	|	5	|	9	|	-1	|	22	|	37	|	
+Cutlass	|	14	|	7	|	5	|	-1	|	15	|	37	|	
+Claymore	|	22	|	6	|	9	|	-1	|	24	|	37	|	
+Long Bow	|	25	|	9	|	-1	|	150	|	25	|	37	|	
+Compound Bow	|	28	|	10	|	-1	|	200	|	24	|	37	|	
+Sling	|	11	|	3	|	-1	|	20	|	2	|	37	|	
+Pike	|	12	|	6	|	7	|	-1	|	14	|	37	|	
+Polearm	|	14	|	7	|	6	|	-1	|	13	|	37	|	
+Broadsword	|	23	|	5	|	9	|	-1	|	19	|	37	|	
+Crowbar	|	10	|	4	|	4	|	-1	|	7	|	37	|	
+Staff	|	3	|	8	|	10	|	-1	|	4	|	37	|	
+Club	|	4	|	8	|	4	|	-1	|	2	|	37	|	
+Pickaxe	|	7	|	9	|	3	|	-1	|	4	|	37	|	
+Hands	|	1	|	10	|	1	|	-1	|	0	|	-1	|	
+Sharpened Stick	|	5	|	5	|	5	|	20	|	1	|	-1	|	
+Big Rock	|	4	|	3	|	2	|	5	|	2	|	-1	|	
+Dead Body	|	2	|	1	|	3	|	-1	|	8	|	-1	|	
+Fallaxious' Legendary Artemis Bow	|	50	|	15	|	-1	|	250	|	35	|	100	|	A massive bow, cut from one single piece of mahogany. It is engraved with pictures of hunters and strange beasts.
+Kayn's Legendary Sai	|	50	|	15	|	7	|	-1	|	5	|	100	|	Japanese three pronged dagger with "?????????" is engraved in the blade
+Tyrus' Legendary Macuahuitl	|	50	|	15	|	10	|	-1	|	15	|	100	|	An ancient Aztec club with razors embedded on the side. The handle is well worn and the club is engraved with the ancient god Quetzalcoatl

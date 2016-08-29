@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1457468011 source:c:\users\alex weber\desktop\desktop\compscilabs\riemann sum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1457465827 source:c:\users\alex weber\desktop\desktop\compscilabs\riemann sum\src\writting.cpp
+	"Writting.h"
+
+1457465827 c:\users\alex weber\desktop\desktop\compscilabs\riemann sum\include\writting.h
+

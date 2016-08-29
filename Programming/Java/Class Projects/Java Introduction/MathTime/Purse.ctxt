@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Purse()
+comment1.params=count
+comment1.target=void\ addDime(int)
+comment2.params=count
+comment2.target=void\ addNickle(int)
+comment3.params=count
+comment3.target=void\ addQuarter(int)
+comment4.params=
+comment4.target=void\ incrementNickel()
+comment5.params=
+comment5.target=int\ getNumberOfCoins()
+comment6.params=
+comment6.target=double\ getValue()
+numComments=7

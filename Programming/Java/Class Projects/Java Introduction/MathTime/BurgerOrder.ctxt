@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BurgerOrder()
+comment1.params=tmpInt
+comment1.target=void\ addBurgers(int)
+comment2.params=tmpInt
+comment2.target=void\ addFries(int)
+comment3.params=tmpInt
+comment3.target=void\ addSodas(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ getTotal()
+comment6.params=
+comment6.target=double\ totalAfterTax()
+numComments=7

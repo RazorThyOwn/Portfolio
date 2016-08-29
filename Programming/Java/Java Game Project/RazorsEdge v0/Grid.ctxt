@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=widthIn
+comment0.target=void\ setWidth(int)
+comment1.params=heightIn
+comment1.target=void\ setHeight(int)
+comment10.params=oldX\ oldY\ newX\ newY\ obj
+comment10.target=void\ movePlayer(int,\ int,\ int,\ int,\ java.lang.Object)
+comment11.params=size
+comment11.target=int[]\ factorsList(int)
+comment2.params=objIn
+comment2.target=void\ setGlobalObjArray(java.lang.Object[][])
+comment3.params=objIn
+comment3.target=void\ setLocalObjArray(java.lang.Object[][])
+comment4.params=brush
+comment4.target=void\ paintWindow(sacco.PaintBrush)
+comment5.params=
+comment5.target=void\ assignScaleIndex()
+comment6.params=m
+comment6.target=void\ onMousePress(sacco.MouseEvent)
+comment7.params=i
+comment7.target=void\ onKeyPress(int)
+comment8.params=x\ y
+comment8.target=void\ enhance(int,\ int)
+comment9.params=width\ height\ sizePerSquare\ scale\ startX\ startY
+comment9.target=void\ demo(int,\ int,\ int,\ int,\ int,\ int)
+numComments=12

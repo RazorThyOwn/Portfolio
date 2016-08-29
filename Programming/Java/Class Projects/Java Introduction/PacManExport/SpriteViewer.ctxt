@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=sprites
+comment0.target=SpriteViewer(Sprite[])
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=
+comment2.target=void\ onTimerTick()
+comment3.params=
+comment3.target=void\ launch()
+comment4.params=m
+comment4.target=void\ onMousePress(sacco.MouseEvent)
+numComments=5

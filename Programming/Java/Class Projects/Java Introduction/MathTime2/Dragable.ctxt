@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=tmpX\ tmpY
+comment0.target=void\ translate(int,\ int)
+comment1.params=tmpX\ tmpY
+comment1.target=boolean\ containsPoint(int,\ int)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=playerIn
+comment0.target=PlayerActor(Player)
+comment1.params=
+comment1.target=Player\ getPlayer()
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ negative()
+comment1.params=
+comment1.target=void\ mirrorImage()
+comment2.params=threshold
+comment2.target=void\ threshold(int)
+comment3.params=
+comment3.target=void\ sepiaTone()
+comment4.params=
+comment4.target=void\ blur()
+comment5.params=
+comment5.target=void\ secret()
+numComments=6

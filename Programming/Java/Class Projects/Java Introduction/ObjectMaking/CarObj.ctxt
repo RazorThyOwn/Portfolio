@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarObj()
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=plateString
+comment2.target=void\ setPlate(java.lang.String)
+comment3.params=Mileage
+comment3.target=void\ addMileage(int)
+numComments=4

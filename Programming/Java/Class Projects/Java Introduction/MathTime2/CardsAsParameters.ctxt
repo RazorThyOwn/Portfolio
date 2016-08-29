@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=someCard
+comment0.target=boolean\ isAnAce(Card)
+comment1.params=someCard
+comment1.target=boolean\ isAFaceCard(Card)
+comment2.params=firstCard\ secondCard
+comment2.target=boolean\ matchingSuits(Card,\ Card)
+comment3.params=someCard
+comment3.target=boolean\ isRed(Card)
+comment4.params=
+comment4.target=void\ faceRunner()
+comment5.params=
+comment5.target=void\ suitRunner()
+comment6.params=
+comment6.target=void\ isRedRunner()
+numComments=7

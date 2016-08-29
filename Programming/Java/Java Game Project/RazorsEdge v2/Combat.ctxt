@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pList
+comment0.target=Combat(Player[])
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=isUp
+comment2.target=void\ attack(boolean)
+comment3.params=
+comment3.target=int\ d20()
+comment4.params=m
+comment4.target=void\ onMousePress(sacco.MouseEvent)
+numComments=5

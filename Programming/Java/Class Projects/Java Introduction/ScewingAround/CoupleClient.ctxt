@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileP
+comment0.target=CoupleClient(java.lang.String)
+comment1.params=s
+comment1.target=boolean\ isInt(java.lang.String)
+comment2.params=s
+comment2.target=boolean\ isDouble(java.lang.String)
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n\ w\ a\ h\ s\ rMod\ dsc
+comment0.target=Apparel(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=valNum\ val
+comment1.target=void\ setVal(int,\ int)
+comment2.params=valNum
+comment2.target=int\ getVal(int)
+comment3.params=
+comment3.target=int\ getAgility()
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=
+comment5.target=int\ getSpeed()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

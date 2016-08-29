@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=inBox
+comment0.target=PacMan(BoundingBox)
+comment1.params=
+comment1.target=void\ processBoundary()
+comment2.params=
+comment2.target=void\ fall()
+comment3.params=state
+comment3.target=void\ setState(int)
+numComments=4

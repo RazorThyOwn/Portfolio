@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ desertGen()
+comment1.params=
+comment1.target=void\ forestGen()
+comment10.params=orX\ orY\ sX\ sY
+comment10.target=int\ distanceFormula(int,\ int,\ int,\ int)
+comment11.params=
+comment11.target=int\ getSightRange()
+comment2.params=
+comment2.target=void\ jungleGen()
+comment3.params=
+comment3.target=void\ tundraGen()
+comment4.params=
+comment4.target=void\ islandGen()
+comment5.params=
+comment5.target=void\ swampGen()
+comment6.params=
+comment6.target=void\ autunite()
+comment7.params=one\ two
+comment7.target=int\ getLargest(int,\ int)
+comment8.params=one\ two
+comment8.target=int\ getSmallest(int,\ int)
+comment9.params=startX\ startY\ endX\ endY
+comment9.target=double\ getSlope(int,\ int,\ int,\ int)
+numComments=12

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=gScale\ lScale\ gwScale\ lwScale
+comment0.target=SettingsMapManager(int,\ int,\ int,\ int)
+comment1.params=size
+comment1.target=int[]\ factorsList(int)
+numComments=2

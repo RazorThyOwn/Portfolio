@@ -1,0 +1,13 @@
+#include "res.h"
+#include "windows.h"
+
+aboutWindow DIALOG DISCARDABLE  0, 0, 250, 100
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Program Information"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,12,75,226,15
+    GROUPBOX        "About this software...",static,7,7,236,86
+    CTEXT           "Phonebook Software \n Version 2.0.1 Final \n\n\n\n Written by Alexander Weber for Computer Engineering 160",
+                    static,16,18,206,50
+END

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=tmpInt
+comment0.target=DecToBin(int)
+comment1.params=
+comment1.target=java.lang.String\ toBin()
+numComments=2

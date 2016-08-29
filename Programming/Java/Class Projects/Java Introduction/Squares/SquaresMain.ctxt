@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=numCol\ numRow
+comment0.target=void\ main(int,\ int)
+comment1.params=col\ row
+comment1.target=info.gridworld.grid.BoundedGrid\ newGrid(int,\ int)
+comment2.params=inGrid
+comment2.target=info.gridworld.grid.Grid\ riverGen(info.gridworld.grid.Grid)
+comment3.params=locList\ inGrid
+comment3.target=info.gridworld.grid.Grid\ tileGen(java.util.List,\ info.gridworld.grid.Grid)
+comment4.params=avoid\ inGrid
+comment4.target=info.gridworld.grid.Location\ sideLoc(int,\ info.gridworld.grid.Grid)
+numComments=5

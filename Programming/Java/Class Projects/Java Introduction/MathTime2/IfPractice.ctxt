@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ passwordChecker(int)
+comment1.params=num
+comment1.target=int\ compareTo5(int)
+comment2.params=speed\ isRed
+comment2.target=boolean\ speedingTicket(int,\ boolean)
+comment3.params=num\ insideMode
+comment3.target=boolean\ in1To10(int,\ boolean)
+comment4.params=a\ b\ c
+comment4.target=int\ threeIntMax(int,\ int,\ int)
+comment5.params=a\ b\ c
+comment5.target=int\ loneSum(int,\ int,\ int)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircleWindow()
+comment1.params=
+comment1.target=void\ main()
+comment2.params=brush
+comment2.target=void\ paintWindow(sacco.PaintBrush)
+comment3.params=
+comment3.target=void\ onTimerTick()
+numComments=4

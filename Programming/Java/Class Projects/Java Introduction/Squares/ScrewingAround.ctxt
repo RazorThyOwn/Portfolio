@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=logs\ wood
+comment0.target=void\ barrelCalc(int,\ int)
+comment1.params=barrels
+comment1.target=void\ woodNeeded(int)
+numComments=2

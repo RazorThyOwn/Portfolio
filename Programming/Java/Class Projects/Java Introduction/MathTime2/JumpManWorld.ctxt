@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JumpManWorld()
+comment1.params=
+comment1.target=void\ onTimerTick()
+comment2.params=brush
+comment2.target=void\ paintWindow(sacco.PaintBrush)
+comment3.params=
+comment3.target=void\ main()
+comment4.params=m
+comment4.target=void\ onMousePress(sacco.MouseEvent)
+comment5.params=keyCode
+comment5.target=void\ onKeyPress(int)
+numComments=6

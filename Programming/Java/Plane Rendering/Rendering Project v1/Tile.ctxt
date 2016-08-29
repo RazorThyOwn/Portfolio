@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=color\ nme
+comment0.target=Tile(java.awt.Color,\ java.lang.String)
+comment1.params=
+comment1.target=java.awt.Color\ getColor()
+comment2.params=c
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=h
+comment4.target=void\ setHeight(int)
+numComments=5

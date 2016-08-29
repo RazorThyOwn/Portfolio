@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cards
+comment0.target=boolean\ isFlush(sacco.Card[])
+comment1.params=cards
+comment1.target=boolean\ isPair(sacco.Card[])
+comment2.params=cards
+comment2.target=boolean\ isThreeOfAKind(sacco.Card[])
+comment3.params=cards
+comment3.target=boolean\ isTwoPair(sacco.Card[])
+comment4.params=cards
+comment4.target=boolean\ isStraight(sacco.Card[])
+comment5.params=
+comment5.target=void\ main()
+numComments=6

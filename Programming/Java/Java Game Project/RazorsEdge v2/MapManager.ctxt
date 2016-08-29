@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pList\ objList\ sclIndex\ lScaleIndex\ globalWidthX\ globalHeightX\ playerWidthX\ playerHeightX\ terr
+comment0.target=MapManager(Player[],\ Object[][],\ int,\ int,\ int,\ int,\ int,\ int,\ Tile[][])
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=
+comment2.target=void\ demo()
+comment3.params=m
+comment3.target=void\ onMousePress(sacco.MouseEvent)
+comment4.params=size
+comment4.target=int[]\ factorsList(int)
+numComments=5

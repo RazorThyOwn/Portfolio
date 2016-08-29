@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ evenCounter(int)
+comment1.params=input
+comment1.target=boolean\ confirmX(java.lang.String)
+comment2.params=name
+comment2.target=void\ NameBorder(java.lang.String)
+comment3.params=record
+comment3.target=boolean\ winCounter(java.lang.String)
+comment4.params=
+comment4.target=void\ diceGame()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=inBox
+comment0.target=Ghost(BoundingBox)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=void\ randomizeCounter()
+comment3.params=
+comment3.target=void\ randomizeState()
+comment4.params=
+comment4.target=void\ fall()
+comment5.params=
+comment5.target=void\ processBoundary()
+comment6.params=
+comment6.target=void\ ghostRunner()
+comment7.params=state
+comment7.target=void\ setState(int)
+numComments=8

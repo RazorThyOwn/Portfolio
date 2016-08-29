@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=tSeconds
+comment0.target=HourMinSec(int)
+comment1.params=
+comment1.target=java.lang.String\ getTime()
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=rank\ suit
+comment0.target=SCard(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=SCard()
+comment10.params=y
+comment10.target=void\ setY(int)
+comment11.params=brush
+comment11.target=void\ paintSelf(sacco.PaintBrush)
+comment2.params=other
+comment2.target=int\ compareTo(SCard)
+comment3.params=
+comment3.target=int\ getSuitRank()
+comment4.params=
+comment4.target=sacco.Picture\ getPic()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=int\ getWidth()
+comment8.params=
+comment8.target=int\ getHeight()
+comment9.params=x
+comment9.target=void\ setX(int)
+numComments=12

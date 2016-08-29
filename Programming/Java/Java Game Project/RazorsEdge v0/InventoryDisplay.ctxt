@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=brush
+comment0.target=void\ paintWindow(sacco.PaintBrush)
+comment1.params=m
+comment1.target=void\ onMousePress(sacco.MouseEvent)
+comment2.params=
+comment2.target=void\ demo()
+numComments=3

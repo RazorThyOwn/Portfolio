@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StoreGreeterObj()
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=tmpStore
+comment2.target=void\ setStoreName(java.lang.String)
+comment3.params=tmpItem
+comment3.target=void\ setSpecialItem(java.lang.String)
+numComments=4

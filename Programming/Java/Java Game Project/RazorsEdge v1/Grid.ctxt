@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=widthIn
+comment0.target=void\ setWidth(int)
+comment1.params=heightIn
+comment1.target=void\ setHeight(int)
+comment2.params=objIn
+comment2.target=void\ setGlobalObjArray(java.lang.Object[][])
+comment3.params=objIn
+comment3.target=void\ setLocalObjArray(java.lang.Object[][])
+comment4.params=
+comment4.target=void\ assignScaleIndex()
+comment5.params=i
+comment5.target=void\ onKeyPress(int)
+comment6.params=x\ y
+comment6.target=void\ enhance(int,\ int)
+comment7.params=width\ height\ sizePerSquare\ scale\ startX\ startY
+comment7.target=void\ demo(int,\ int,\ int,\ int,\ int,\ int)
+comment8.params=oldX\ oldY\ newX\ newY\ obj
+comment8.target=void\ moveObject(int,\ int,\ int,\ int,\ java.lang.Object)
+comment9.params=size
+comment9.target=int[]\ factorsList(int)
+numComments=10

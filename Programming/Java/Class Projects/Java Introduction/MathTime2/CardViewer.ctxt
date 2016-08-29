@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cards
+comment0.target=CardViewer(SCard[])
+comment1.params=brush
+comment1.target=void\ paintWindow(sacco.PaintBrush)
+comment2.params=
+comment2.target=void\ spaceCards()
+comment3.params=m
+comment3.target=void\ onMousePress(sacco.MouseEvent)
+comment4.params=
+comment4.target=SCard[]\ getCards()
+numComments=5
